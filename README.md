@@ -30,11 +30,13 @@ Unsigned binaries are available in the BIN folder for OSX and Windows, if you ca
 OSX HydrasynthMonoMPE.app.zip checksums
 ---------------------------------------
 MD5: fb627ef185849931379b886626873d11
+
 sha256: 5caf4f514f183874fbda6e2fe560833aeda97f629f544c93975e41a252e82176
 
 Windows HydrasynthMonoMPE.zip
 -----------------------------
 MD5: 079cf2c91a3785511535667112676b4e
+
 sha256: 619f0992b4ab15c4c6dd1e037d31af862aa390080c82efef493091f4a05cc530
 
     This program is free software: you can redistribute it and/or modify
