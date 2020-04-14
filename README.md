@@ -1,5 +1,7 @@
+App Screenshot:
 ![Screenshot](Screenshot.png)
 
+Click this for video explanation:
 [![Watch the video](https://img.youtube.com/vi/XrhZ-G1lQtY/maxresdefault.jpg)](https://youtu.be/XrhZ-G1lQtY)
 
 Use to route midi from an MPE controller to a Hydrasynth to fix a few bugs with mono patches and add a proper mono/last mode.
